@@ -96,7 +96,7 @@ function initializeCookieConsent() {
               },
               {
                 title: 'More information',
-                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://bcode0127-debug.github.io/codebase.github.io/#contact">contact us</a>.'
+                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://bcode0127-debug.github.io/codebase.github.io/codebase.github.io/#contact">contact us</a>.'
               }
             ]
           }
