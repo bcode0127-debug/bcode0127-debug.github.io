@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bcode0127-debug.github.io/codebase.github.io/codebase.github.io/sitemap.xml
+Sitemap: https://bcode0127-debug.github.io/codebase.github.io/sitemap.xml
