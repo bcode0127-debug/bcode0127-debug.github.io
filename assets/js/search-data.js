@@ -7,27 +7,27 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/bcode-debug.github.io/";
     },
   },{id: "nav-projects",
           title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/bcode-debug.github.io/projects/";
           },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/bcode-debug.github.io/cv/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/bcode-debug.github.io/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -35,7 +35,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/bcode-debug.github.io/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -43,22 +43,22 @@ ninja.data = [{
           title: 'Energy Consumption Forecasting',
           description: "Investigating the limits of linear models at scale",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/bcode-debug.github.io/projects/1_project/";
             },},{id: "projects-compositional-generalization-in-mathematical-reasoning",
           title: 'Compositional Generalization in Mathematical Reasoning',
           description: "Benchmarking LSTM and Transformer architectures on controlled arithmetic generalization tasks",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/bcode-debug.github.io/projects/2_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
+              window.location.href = "/bcode-debug.github.io/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/bcode-debug.github.io/teachings/introduction-to-machine-learning/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
