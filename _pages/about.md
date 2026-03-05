@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: ML Engineeer | Research Study on Generalization & Safety in Neural Networks
+subtitle: ML Engineer | Research Study on Generalization & Safety in Neural Networks
 
 profile:
   align: right
