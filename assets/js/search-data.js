@@ -39,9 +39,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-energy-consumption-forecasting",
-          title: 'Energy Consumption Forecasting',
-          description: "Investigating the limits of linear models at scale",
+          section: "News",},{id: "projects-energy-consumption-forecasting-breaking-the-linear-barrier",
+          title: 'Energy Consumption Forecasting Breaking the Linear Barrier',
+          description: "Systematic evaluation of linear vs ensemble methods on 167M smart meter records",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-compositional-generalization-in-mathematical-reasoning",
