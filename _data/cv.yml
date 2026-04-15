@@ -1,0 +1,105 @@
+cv:
+  name: Ajay Jamanjyothi
+  label: ML Research Engineer
+  email: jamanjyothia97@gmail.com
+  phone: (412) 354-7568
+  location: Pittsburgh, PA
+  image: ""
+  summary: ML researcher with background in AI ethics and applied deep learning. Research focus compositional generalization and failure analysis in seq2seq architectures. arXiv preprint in preparation. Seeking Research Scientist roles at AI safety labs.
+
+  social_networks:
+    - network: GitHub
+      username: bcode0127-debug
+    - network: LinkedIn
+      username: ajayjamanjyothi
+
+  sections:
+    Education:
+      - institution: University of Dayton
+        location: Dayton, OH
+        area: Computer Science
+        studyType: M.S.
+        start_date: 2021-08
+        end_date: 2023-05
+        highlights:
+          - "Focus on machine learning and neural networks"
+
+      - institution: JNTU Hyderabad
+        location: Hyderabad, India
+        area: Computer Science & Engineering
+        studyType: B.Tech.
+        start_date: 2015-08
+        end_date: 2019-06
+
+    Experience:
+      - company: Bank of America 
+        position: Machine Learning Engineer
+        location: New Jersey, NJ
+        start_date: 2023-08
+        end_date: 2024-11
+        summary: Developed predictive analytics models within Consumer Banking digital ecosystem, focusing on churn prediction and automated feature pipelines for retail client retention.
+        highlights:
+          - "Built churn prediction models using logistic regression and decision trees on 7K+ customer records, achieving AUC of 0.846 across held-out test sets with rigorous evaluation frameworks"
+          - "Implemented end-to-end ML pipeline with feature engineering, class imbalance handling via SMOTE, and model monitoring systems for production deployment"
+          - "Established interpretability and drift detection systems for regulatory compliance, collaborating with product teams to translate research into production-ready systems"
+
+      - company: Zensar Technologies
+        position: Machine Learning Engineer
+        location: Hyderabad, India
+        start_date: 2019-06
+        end_date: 2021-07
+        summary: Deployed production ML models processing 167M+ daily records
+        highlights:
+          - "Deployed agentic systems with multimodal data pipelines (text, structured, temporal signals), implementing tool use and function calling across distributed cloud environments at scale"
+          - "Optimized ML pipelines on GCP reducing training time by 40%, designed ensemble architectures combining human and machine signals with production-grade monitoring and observability"
+          - "Established MLOps standards with real-time data pipelines and SLO design, owned production systems end-to-end from experimentation through deployment with A/B testing and drift detection"
+    Projects:
+      - name: Mathematical Reasoning in Neural Networks
+        url: https://github.com/bcode0127-debug
+        summary: Designed controlled experiments testing compositional generalization in neural networks
+        highlights:
+          - "Tested on 20,000 arithmetic expressions revealing catastrophic OOD failure (90%+ train accuracy to 0-2% OOD)"
+          - "Implemented LSTM and Transformer architectures from scratch in PyTorch with systematic ablation studies"
+          - "Analyzed attention mechanisms revealing pattern matching vs true compositional reasoning with implications for AI safety"
+
+      - name: Energy Consumption Forecasting at Scale
+        url: https://github.com/bcode0127-debug/energy-forecasting
+        summary: Cloud-native ML pipeline processing 167 million smart meter records on Google Cloud Platform
+        highlights:
+          - "Quantified interpretability-accuracy tradeoff with 7 percentage point gap between linear and ensemble methods"
+          - "Built systematic feature engineering framework (Fourier harmonics, temporal lags, weather interactions) achieving 15% improvement"
+          - "Optimized BigQuery aggregations reducing data processing time by 40%, enabling rapid experimentation"
+
+    Skills:
+      - name: Python
+        level: Expert
+      
+      - name: PyTorch
+        level: Expert
+      
+      - name: R
+        level: Advanced
+      
+      - name: Scikit-learn
+        level: Advanced
+      
+      - name: SQL
+        level: Advanced
+      
+      - name: Hugging Face
+        level: Advanced
+      
+      - name: Git
+        level: Advanced
+      
+      - name: GCP & Azure
+        level: Intermediate
+      
+      - name: LaTeX
+        level: Intermediate
+        
+
+    Certificates:
+      - name: Microsoft Certified - Azure Data Engineer Associate
+        date: 2023-02
+        issuer: Microsoft
