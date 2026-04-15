@@ -19,7 +19,7 @@ latest_posts:
   limit: 3
 ---
 
-I'm an ML Research Engineer investigating the mechanistic foundations of neural network failure—specifically, why state-of-the-art architectures like Transformers struggle with compositional reasoning despite achieving high in-distribution accuracy. My work sits at the intersection of AI safety, mechanistic interpretability, and empirical ML research.
+I'm an ML Research Engineer investigating the mechanistic foundations of neural network failure-specifically, why state-of-the-art architectures like Transformers struggle with compositional reasoning despite achieving high in-distribution accuracy. My work sits at the intersection of AI safety, mechanistic interpretability, and empirical ML research.
 
 **Current Research:** I evaluate LSTM and Transformer encoder-decoder architectures on controlled arithmetic generalization tasks to determine whether these models learn algorithmic reasoning or rely on surface-level pattern memorization. Through mechanistic attention analysis, I trace specific failure modes-Layer-wise attention collapse and Step-0 decoding failures-to understand why models generalize catastrophically on out-of-distribution inputs. This work directly informs questions of model robustness, safety, and trustworthiness in deployment.
 
